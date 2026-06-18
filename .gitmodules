@@ -1,0 +1,3 @@
+[submodule "code/themes/searchwind"]
+	path = code/themes/searchwind
+	url = https://github.com/samuele-cozzi/searchwind.git
