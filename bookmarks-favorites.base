@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.inFolder("31.bookmarks")
+    - file.tags.containsAny("favorite")
+views:
+  - type: cards
+    name: View
+    order:
+      - title
+      - source
+      - tags
+    sort:
+      - property: date
+        direction: ASC
+    image: note.cover
+    imageAspectRatio: 1.2
+    cardSize: 160
+  - type: table
+    name: Table
+    order:
+      - title
+      - source
+      - tags
+      - date
+      - file.folder
+      - file.name
+    sort:
+      - property: date
+        direction: ASC
