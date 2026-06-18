@@ -2,6 +2,17 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = 'bookmarks'
 theme = 'searchwind'
-logo = 'bug'
 
 contentDir = "../content"
+
+[params]
+    logo = 'home'
+    showCategoriesMenu = false
+    showTagsMenu = true
+
+[params.usersettings]
+    sidebar = "right" # left/right
+    
+[params.colors.light]
+    bg = "#1fd756"
+    bg_card = "#FFFFFF"
