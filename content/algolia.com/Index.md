@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Algolia | Dashboard
+source: https://www.algolia.com/apps/M90FC3UY18/dashboard
+cover: 372436830.png
+date: 2022-03-06T18:06:38.222Z
+tags: code
+---
+
+# Algolia | Dashboard
+
+Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.

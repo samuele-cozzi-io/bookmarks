@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: LO SPETTACOLO DELLA FISICA
+source: http://spettacolo.fisica.unimi.it/
+cover: 271297023.png
+date: 2021-05-22T14:03:50.729Z
+tags: science
+---
+
+# LO SPETTACOLO DELLA FISICA
+
+undefined

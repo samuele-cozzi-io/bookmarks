@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: BPM BANKING
+source: https://youweb.bancobpm.it/WEBHB/login
+cover: 225632903.png
+date: 2020-12-30T00:07:55.226Z
+tags: [money, house]
+---
+
+# BPM BANKING
+
+undefined

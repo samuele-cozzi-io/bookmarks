@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Jenni
+source: https://app.jenni.ai/
+cover: 476320873.png
+date: 2022-11-23T19:54:02.629Z
+tags: [write, productivity]
+---
+
+# Jenni
+
+undefined

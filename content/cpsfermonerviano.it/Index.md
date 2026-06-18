@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: CPSFermo – Nerviano
+source: http://www.cpsfermonerviano.it/
+cover: 791525279.png
+date: 2024-05-26T17:08:23.465Z
+tags: nerviano
+---
+
+# CPSFermo – Nerviano
+
+undefined

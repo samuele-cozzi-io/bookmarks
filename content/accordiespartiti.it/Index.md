@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Accordi e Spartiti
+source: https://www.accordiespartiti.it/
+cover: 1120333223.png
+date: 2025-05-30T13:16:29.224Z
+tags: music
+---
+
+# Accordi e Spartiti
+
+Accordi per Chitarra, Spartiti per Pianoforte, Tablature, Partiture, Testi di musica classica e moderna.

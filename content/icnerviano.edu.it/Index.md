@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Istituto Comprensivo Nerviano
+source: https://www.icnerviano.edu.it/
+cover: 351063836.png
+date: 2022-01-12T07:52:34.350Z
+tags: [school, rappresentante, kids]
+---
+
+# Istituto Comprensivo Nerviano
+
+undefined

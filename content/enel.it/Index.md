@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Enel Energia
+source: https://www.enel.it/it/area-clienti/residenziale
+cover: 351192939.png
+date: 2022-01-12T21:01:06.006Z
+tags: [house, energy]
+---
+
+# Enel Energia
+
+undefined

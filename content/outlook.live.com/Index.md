@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Outlook Mail
+source: https://outlook.live.com/mail/#/inbox
+cover: 225632841.png
+date: 2020-12-30T00:07:20.376Z
+tags: [productivity, office, mail]
+---
+
+# Outlook Mail
+
+undefined

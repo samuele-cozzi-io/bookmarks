@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Google Earth
+source: https://earth.google.com/web/@0,0,0a,22251752.77375655d,35y,0h,0t,0r
+cover: 351180164.png
+date: 2022-01-12T20:12:51.820Z
+tags: science
+---
+
+# Google Earth
+
+undefined

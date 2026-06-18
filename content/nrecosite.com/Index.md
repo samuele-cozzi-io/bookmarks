@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: NReco .NET REusable COmponents
+source: https://www.nrecosite.com/
+cover: 281414260.png
+date: 2021-06-23T12:08:54.672Z
+tags: code
+---
+
+# NReco: .NET REusable COmponents
+
+NReco is a collection of reusable components for .NET platform (.NET Framework and .NET Core): business intelligence and web reporting, file formats conversions, data access and data APIs.

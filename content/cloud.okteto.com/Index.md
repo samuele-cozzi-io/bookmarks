@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Okteto
+source: https://cloud.okteto.com/login?redirect=%2Fspaces%2Fsamuele-cozzi
+cover: 609856496.png
+date: 2023-07-19T17:36:26.736Z
+tags: code
+---
+
+# Okteto
+
+undefined

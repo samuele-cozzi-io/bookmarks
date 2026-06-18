@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Brainboard - Design, Deploy and Manage your Multi-Cloud
+source: https://www.brainboard.co/
+cover: 466525953.png
+date: 2022-11-01T18:08:00.292Z
+tags: [code, tech-architecture]
+---
+
+# Brainboard - Design, Deploy and Manage your Multi-Cloud
+
+Brainboard is a cloud visualization and deployment solution that helps organizations manage and understand their cloud environment. Start free for 21 days.

@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Cliché Finder – Find, Highlight, and Remove Clichés in Your Text
+source: https://www.clichefinder.net/
+cover: 355840865.png
+date: 2022-01-23T17:36:01.000Z
+tags: [write, productivity]
+---
+
+# Cliché Finder – Find, Highlight, and Remove Clichés in Your Text
+
+Cliché Finder. Find and highlight cliches. Eliminate clichés (including trite, stale, and overused word choices and phrases) in your writing. Enhance your poems, text, or other creative writings by finding and removing clichés with a simple click of a button.

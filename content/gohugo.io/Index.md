@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: The world’s fastest framework for building websites
+source: https://gohugo.io/
+cover: 634747163.png
+date: 2023-08-26T12:35:19.472Z
+tags: [web-tool, blog, code]
+---
+
+# The world’s fastest framework for building websites
+
+undefined

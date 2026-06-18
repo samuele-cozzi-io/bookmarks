@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Lorem Picsum
+source: https://picsum.photos/
+cover: 359058786.png
+date: 2022-01-30T21:19:33.203Z
+tags: catalog
+---
+
+# Lorem Picsum
+
+Lorem Ipsum... but for photos

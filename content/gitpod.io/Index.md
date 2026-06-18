@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Gitpod
+source: https://gitpod.io/workspaces
+cover: 609857006.png
+date: 2023-07-19T17:41:25.548Z
+tags: code
+---
+
+# Gitpod
+
+undefined

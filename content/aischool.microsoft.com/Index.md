@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: AI School | Microsoft
+source: https://aischool.microsoft.com/learning-paths
+cover: 225633060.png
+date: 2020-12-30T00:09:24.586Z
+tags: learning
+---
+
+# AI School | Microsoft
+
+undefined

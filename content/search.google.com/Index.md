@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Google Search Console
+source: https://search.google.com/search-console?resource_id=https%3A%2F%2Fsamuele-cozzi-io.github.io%2Fwebsite%2F
+cover: 777349177.png
+date: 2024-04-29T17:01:42.507Z
+tags: [web-tool, blog]
+---
+
+# Google Search Console
+
+undefined

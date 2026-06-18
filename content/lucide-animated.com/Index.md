@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: lucide-animated | Free Animated React Icons
+source: https://lucide-animated.com/
+cover: 1669299832.png
+date: 2026-04-02T12:12:22.710Z
+tags: catalog
+---
+
+# lucide-animated | Free Animated React Icons
+
+Free animated React icons library with 350+ smooth Motion-powered icons based on Lucide. MIT licensed, copy-paste ready.

@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Nuovo Portale dell'INPS
+source: https://www.inps.it/myinps/default.aspx?myinps=1
+cover: 396511113.png
+date: 2022-05-20T09:49:20.650Z
+tags: government
+---
+
+# Nuovo Portale dell'INPS
+
+Portale INPS - Entra

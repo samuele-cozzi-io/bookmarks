@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: MLOL - Digital lending (prestito digitale) per le biblioteche
+source: https://www.medialibrary.it/home/index.aspx
+cover: 837766011.png
+date: 2024-08-18T16:00:24.576Z
+tags: book
+---
+
+# MLOL - Digital lending (prestito digitale) per le biblioteche
+
+MLOL è la prima rete italiana di biblioteche digitali. Una piattaforma per l'accesso al digital lending (prestito digitale) di ebook, quotidiani e periodici da tutto il mondo e tanti altri contenuti.

@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Diagram maker for developers | Gleek
+source: https://gleek.io/
+cover: 901116437.png
+date: 2024-11-15T14:05:34.768Z
+tags: code
+---
+
+# Diagram maker for developers | Gleek
+
+Create diagrams without touching your mouse. Generate informal, class, sequence, state, gantt, user journey or entity-relationship diagrams using only the keyboard.

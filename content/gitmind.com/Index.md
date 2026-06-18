@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: GitMind
+source: https://gitmind.com/app/my
+cover: 319992921.png
+date: 2021-10-10T20:44:38.984Z
+tags: productivity
+---
+
+# GitMind
+
+undefined

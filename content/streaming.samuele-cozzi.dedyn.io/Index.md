@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Jellyfin
+source: https://streaming.samuele-cozzi.dedyn.io/web/#/home.html
+cover: 987991273.png
+date: 2025-03-08T17:51:44.311Z
+tags: [music, video, home-lab, audio]
+---
+
+# Jellyfin
+
+undefined

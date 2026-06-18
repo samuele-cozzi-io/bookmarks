@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: ZEROCODA
+source: https://prenota.zerocoda.it/
+cover: 351191643.png
+date: 2022-01-12T20:44:29.900Z
+tags: helth
+---
+
+# ZEROCODA
+
+Salta la coda agli sportelli

@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: OneSignal | home-smart
+source: https://dashboard.onesignal.com/apps/17d959dc-69a8-48d7-be88-8cae68dd2ea2
+cover: 625046486.png
+date: 2023-08-10T15:28:34.332Z
+tags: web-tool
+---
+
+# OneSignal | home-smart
+
+The world's leader for mobile push notifications, web push, SMS, email and in-app messaging. Trusted by 1.8 million+ businesses to send 10 billion+ messages per day.

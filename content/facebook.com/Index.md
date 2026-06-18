@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Facebook
+source: https://www.facebook.com/
+cover: 225636494.png
+date: 2020-12-30T00:12:16.853Z
+tags: social
+---
+
+# Facebook
+
+undefined

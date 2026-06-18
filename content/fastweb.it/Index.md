@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Fastweb - ADSL, fibra ottica, telefono e TV
+source: https://www.fastweb.it/
+cover: 752721085.png
+date: 2024-03-12T10:47:10.049Z
+tags: [house, phone]
+---
+
+# Fastweb - ADSL, fibra ottica, telefono e TV
+
+Fibra Ottica o ADSL, Telefonia fissa e mobile. Articoli, tecnologia, e-mail e servizi anche su cellulare

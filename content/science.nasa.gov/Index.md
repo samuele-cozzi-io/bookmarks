@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Eyes - NASA Science
+source: https://science.nasa.gov/eyes/
+cover: 827502600.png
+date: 2024-08-02T17:11:50.171Z
+tags: science
+---
+
+# Eyes - NASA Science
+
+NASA's Eyes is a suite of 3D visualization applications that allows everyone to explore and understand real NASA data and imagery in a fun and interactive way. The apps are all run inside a regular web browser, so any device with an internet connection and a browser can run them.

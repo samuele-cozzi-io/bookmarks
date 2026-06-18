@@ -1,0 +1,12 @@
+---
+object: Bookmark
+title: Remove Background from Image – remove.bg
+source: https://www.remove.bg/
+cover: 359058815.png
+date: 2022-01-30T21:19:58.751Z
+tags: draw
+---
+
+# Remove Background from Image – remove.bg
+
+Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic.
