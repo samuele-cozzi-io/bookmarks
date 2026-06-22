@@ -2,7 +2,7 @@
 object: Bookmark
 title: Sputnikmusic | Music Reviews, Music News
 source: https://www.sputnikmusic.com/
-cover: 970653875.png
+cover:
 date: 2025-02-13T12:31:31.941Z
 tags: music
 ---

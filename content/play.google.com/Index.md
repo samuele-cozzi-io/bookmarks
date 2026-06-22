@@ -2,7 +2,7 @@
 object: Bookmark
 title: Google Play
 source: https://play.google.com/store?hl=en-GB&tab=k8
-cover: 351179026.png
+cover:
 date: 2022-01-12T20:10:52.231Z
 tags: video
 ---

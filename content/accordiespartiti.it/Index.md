@@ -2,7 +2,7 @@
 object: Bookmark
 title: Accordi e Spartiti
 source: https://www.accordiespartiti.it/
-cover: 1120333223.png
+cover:
 date: 2025-05-30T13:16:29.224Z
 tags: music
 ---

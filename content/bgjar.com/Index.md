@@ -2,7 +2,7 @@
 object: Bookmark
 title: Free svg background generator
 source: https://bgjar.com/
-cover: 966531069.png
+cover:
 date: 2025-02-07T20:30:08.306Z
 tags: draw
 ---

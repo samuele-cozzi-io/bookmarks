@@ -2,7 +2,7 @@
 object: Bookmark
 title: Duck DNS
 source: https://www.duckdns.org/domains
-cover: 983366529.png
+cover:
 date: 2025-03-01T18:25:29.613Z
 tags: home-lab
 ---

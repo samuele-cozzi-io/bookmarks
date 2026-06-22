@@ -2,9 +2,11 @@
 object: Bookmark
 title: Personal devices – Raspberry Pi Connect
 source: https://connect.raspberrypi.com/devices
-cover: 979250537.png
+cover:
 date: 2025-02-25T09:03:54.951Z
-tags: [house, home-lab]
+tags:
+  - house
+  - home-lab
 ---
 
 # Personal devices – Raspberry Pi Connect

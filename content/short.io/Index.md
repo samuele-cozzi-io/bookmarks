@@ -2,7 +2,7 @@
 object: Bookmark
 title: Short.io
 source: https://short.io/
-cover: 1036019804.png
+cover:
 date: 2025-05-09T13:38:41.367Z
 tags: web-tool
 ---

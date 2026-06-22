@@ -2,9 +2,12 @@
 object: Bookmark
 title: Scaleway console
 source: https://console.scaleway.com/organization
-cover: 1675578228.png
+cover:
 date: 2026-04-07T08:15:38.801Z
-tags: [home-lab, tech-architecture, tech-engineering]
+tags:
+  - home-lab
+  - tech-architecture
+  - tech-engineering
 ---
 
 # Scaleway console
