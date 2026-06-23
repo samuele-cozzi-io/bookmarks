@@ -21,7 +21,7 @@ contentDir = "../content"
 
 [params.usersettings]
     sidebar = "right" # left/right
-    imageLink = external
+    imageLink = "external"
     searchProvider = "fuse"
     
 [params.colors.light]
