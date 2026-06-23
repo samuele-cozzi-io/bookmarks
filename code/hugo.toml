@@ -57,17 +57,17 @@ contentDir = "../content"
     bg = "#111827"         # deep slate/navy (dark)
     bg_card = "#0B1220"
 
-    primary = "#FB923C"
+    primary = "#C2410C"
     primary_hover = "#F97316"
     primary_active = "#C2410C"
     primary_outline = "#FCD34D"
 
-    secondary = "#F59E0B"
+    secondary = "#92400E"
     secondary_hover = "#D97706"
     secondary_active = "#92400E"
     secondary_outline = "#FDBA74"
 
-    accent = "#FBBF24"
+    accent = "#fb3d24"
     accent_hover = "#F59E0B"
     accent_active = "#B45309"
     accent_outline = "#FCD34D"
