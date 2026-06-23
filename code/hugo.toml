@@ -4,6 +4,9 @@ theme = 'searchwind'
 
 contentDir = "../content"
 
+[outputs]
+    home = ["HTML", "JSON", "RSS"]
+
 [params]
     logo = 'home'
     showCategoriesMenu = false
