@@ -1,5 +1,4 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
 title = 'bookmarks'
 theme = 'searchwind'
 
@@ -10,9 +9,69 @@ contentDir = "../content"
     showCategoriesMenu = false
     showTagsMenu = true
 
+[[params.menu.shortcut]]
+    logo = "star"
+    linkType = ""
+    url = "/tags/favorite"
+
+[[params.menu.shortcut]]
+    logo = "github"
+    linkType = "external"
+    url = "https://github.com/samuele-cozzi"
+
 [params.usersettings]
     sidebar = "right" # left/right
+    imageLink = external
+    searchProvider = "fuse"
     
 [params.colors.light]
-    bg = "#1fd756"
+    bg = "#FDE68A"          # warm pale amber
     bg_card = "#FFFFFF"
+
+    primary = "#F97316"    # orange
+    primary_hover = "#EA580C"
+    primary_active = "#C2410C"
+    primary_outline = "#FDBA74"
+
+    secondary = "#FB923C"  # softer orange
+    secondary_hover = "#F97316"
+    secondary_active = "#C2410C"
+    secondary_outline = "#FDBA74"
+
+    accent = "#F59E0B"     # amber accent
+    accent_hover = "#D97706"
+    accent_active = "#B45309"
+    accent_outline = "#FCD34D"
+
+    text_base = "#111827"
+    text_muted = "#4B5563"
+
+    text_primary = "#9A3412"
+    text_secondary = "#9A3412"
+    text_accent = "#92400E"
+
+[params.colors.dark]
+    bg = "#111827"         # deep slate/navy (dark)
+    bg_card = "#0B1220"
+
+    primary = "#FB923C"
+    primary_hover = "#F97316"
+    primary_active = "#C2410C"
+    primary_outline = "#FCD34D"
+
+    secondary = "#F59E0B"
+    secondary_hover = "#D97706"
+    secondary_active = "#92400E"
+    secondary_outline = "#FDBA74"
+
+    accent = "#FBBF24"
+    accent_hover = "#F59E0B"
+    accent_active = "#B45309"
+    accent_outline = "#FCD34D"
+
+    text_base = "#F3F4F6"
+    text_muted = "#9CA3AF"
+
+    text_primary = "#FDBA74"
+    text_secondary = "#FCD34D"
+    text_accent = "#F59E0B"
