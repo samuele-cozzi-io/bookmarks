@@ -9,6 +9,7 @@ tags:
   - write
   - office
   - favorite
+  - artificial-intelligence
 ---
 
 # Le Chat

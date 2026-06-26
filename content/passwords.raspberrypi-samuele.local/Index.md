@@ -7,6 +7,7 @@ date: 2022-01-01
 tags:
   - home-lab
   - favorite
+  - security
 ---
 
 # Vaults | Bitwarden Web vault

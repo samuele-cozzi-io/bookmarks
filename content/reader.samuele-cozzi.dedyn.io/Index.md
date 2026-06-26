@@ -7,6 +7,7 @@ date: 2024-04-01
 tags:
   - favorite
   - home-lab
+  - news
 ---
 
 # Karakeep
