@@ -26,4 +26,4 @@ views:
       - file.name
     sort:
       - property: date
-        direction: ASC
+        direction: DESC

@@ -3,8 +3,10 @@ object: Bookmark
 title: WhatsApp
 source: https://web.whatsapp.com/
 cover: 225632908.png
-date: 2020-12-30T00:07:55.871Z
-tags: [social, favorite]
+date: 2024-02-01
+tags:
+  - social
+  - favorite
 ---
 
 # WhatsApp

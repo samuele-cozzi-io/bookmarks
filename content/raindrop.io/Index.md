@@ -6,7 +6,6 @@ cover:
 date: 2025-01-15T22:14:42.168Z
 tags:
   - raindrop
-  - favorite
 ---
 
 # Bookmarks

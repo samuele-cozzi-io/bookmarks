@@ -3,8 +3,10 @@ object: Bookmark
 title: Calendar
 source: https://calendar.google.com/calendar/r
 cover: 225642922.png
-date: 2020-12-30T00:13:06.674Z
-tags: [productivity, favorite]
+date: 2022-05-01
+tags:
+  - productivity
+  - favorite
 ---
 
 # Calendar

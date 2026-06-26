@@ -3,8 +3,11 @@ object: Bookmark
 title: Perplexity
 source: https://www.perplexity.ai/?login-source=floatingSignup&login-new=false
 cover: 1267903735.png
-date: 2025-07-25T13:19:38.551Z
-tags: [discovery, favorite, artificial-intelligence]
+date: 2025-02-01
+tags:
+  - discovery
+  - favorite
+  - artificial-intelligence
 ---
 
 # Perplexity
